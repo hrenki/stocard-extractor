@@ -1,0 +1,4 @@
+sync_db
+sync_db-wal
+sync_db-shm
+logos/*
